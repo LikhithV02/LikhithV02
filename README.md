@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/likhith-v-597643223/">LinkedIn</a> •
+  <a href="https://www.upwork.com/freelancers/~019e59954d43414ce0?mp_source=share">Upwork</a> •
   <a href="mailto:likhithv02@gmail.com">Email</a> •
   <a href="https://github.com/LikhithV02">GitHub</a>
 </p>
