@@ -25,7 +25,7 @@
 
 | Project | What it does | Stack / Focus |
 |---|---|---|
-| [Anvit: Local Agentic RAG](https://play.google.com/store/apps/details?id=com.likhith.anvit) | Private offline Android AI assistant to chat with PDF and Word documents. Uses on-device Gemma via Google LiteRT, hybrid retrieval, agentic RAG, corrective RAG, and cited sources without sending documents to the cloud. | Android, local LLMs, Gemma, LiteRT, Agentic RAG, BM25, embeddings, privacy-first AI |
+| [Anvit - Offline AI PDF Chat](https://www.anvit.app/) | Private offline Android AI assistant to chat with PDF and Word documents. Uses on-device Gemma via Google LiteRT, hybrid retrieval, agentic RAG, corrective RAG, and cited sources without sending documents to the cloud. | Android, local LLMs, Gemma, LiteRT, Agentic RAG, BM25, embeddings, privacy-first AI |
 | [DocExtract](https://github.com/LikhithV02/DocExtract) | Modern document extraction app for government IDs and invoices using LlamaParse AI with a FastAPI backend. | TypeScript, React, FastAPI, MongoDB, Docker, parsing |
 | [WebNexus](https://github.com/LikhithV02/WebNexus) | Self-contained web crawling and document search system with AI-powered context retrieval. | Python, RAG, embeddings, FAISS, scraping, MCP |
 | [Youtube-automation](https://github.com/LikhithV02/Youtube-automation) | Automates YouTube video creation from an idea: storyline, images, narration, and MoviePy video generation. | Python, agents, automation, AI video, MoviePy |
