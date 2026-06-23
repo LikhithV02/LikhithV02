@@ -14,7 +14,7 @@
 
 - 🤖 AI Engineer based in Bengaluru, India, focused on GenAI, LLM applications, RAG, agents, and automation.
 - 🧠 I enjoy building practical AI systems: offline AI assistants, document extraction, web crawling/search, YouTube automation, and autonomous workflows.
-- 📱 Creator of [Anvit: Local Agentic RAG](https://play.google.com/store/apps/details?id=com.likhith.anvit), a private on-device AI document assistant for PDF and Word files.
+- 📱 Creator of [Anvit - Offline AI PDF Chat](https://play.google.com/store/apps/details?id=com.likhith.anvit), a private on-device AI document assistant for PDF and Word files.
 - 🛠️ I work across Python, FastAPI, TypeScript, React, Android, Docker, vector databases, embeddings, and LLM orchestration.
 - 🚀 Currently exploring production-ready AI agents, GenAI SaaS products, and privacy-first local AI apps.
 - 📫 Reach me at: **likhithv02@gmail.com**
